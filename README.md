@@ -19,11 +19,15 @@ BMI = weight / (height ** 2)
 1. Open the terminal or command prompt.
 2. Run the Python file:
 python bmi_calculator.py
-'''bash
+
 ✅ Sample Output:
-Enter your weight in kg: 65
+
+Enter your weight in kg: 65  
+
 Enter your height in meters: 1.7
+
 Your BMI is 22.49
+
 ✅ You have a normal weight.
 
 
