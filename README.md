@@ -26,3 +26,10 @@ Enter your weight in kg: 65
 Enter your height in meters: 1.7
 Your BMI is 22.49
 ✅ You have a normal weight.
+
+## 📦 Download on Gumroad
+
+💪 Easily calculate your BMI using this Python CLI tool:  
+👉 [BMI Calculator (Python Script) – Download on Gumroad](https://kanishkar8.gumroad.com/l/jjphsb?_gl=1*iikucp*_ga*MjUwMDg1MjM0LjE3NTE5ODIxOTM.*_ga_6LJN6D94N6*czE3NTIxMzQ5NjAkbzMkZzEkdDE3NTIxMzY0NDgkajYwJGwwJGgw)
+
+🔗 Gumroad Profile: [kanishkar8.gumroad.com](https://kanishkar8.gumroad.com)
